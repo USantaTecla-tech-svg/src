@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+svg {
+  width: 1050px;
+  height: 1050px;
+}
+
+tspan {
+  font-size: 35px;
+}
+
+.text{
+font-size:55px;
+margin-left: 20px;
+margin-top: 10px;
+}
+

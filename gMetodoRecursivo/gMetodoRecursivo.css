@@ -1,0 +1,33 @@
+body {
+  background: black;
+  color: orange;
+  text-align: center;
+}
+
+div{
+  float: left;
+  margin-left: 450px;
+  width: 500px;
+  height: 500px;
+}
+
+svg {
+  width: 500px;
+  height: 500px;
+}
+
+polyline {
+  fill: none;
+  stroke-width: 25;
+  stroke: orange;    
+}
+
+tspan {
+  font-size: 25px;
+  fill: orange;
+}
+
+svg {
+  width:400px;
+  height: 400px;
+}

@@ -1,0 +1,31 @@
+body {
+    background: white;    
+}
+
+.box {
+    margin-left: 250px;
+    padding: 50px;
+    width: 720px;
+}
+
+div {
+    margin-left:10px;
+    width: 25px;
+}
+
+svg {
+    background: white;
+    border:2px black solid;
+    padding: 5px;
+}
+
+.active {
+    background: red;
+    fill: red;
+}
+
+circle, path {
+    stroke:black;
+    stroke-width: 4;
+    fill: white;
+}

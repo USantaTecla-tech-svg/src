@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1535px" preserveAspectRatio="none" style="width:1255px;height:1535px;background:#FFFFFF;" version="1.1" viewBox="0 0 1255 1535" width="1255px" zoomAndPan="magnify">
+  <defs />
+  <g>
+    <rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="10" y="608" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="27" y="622.9951" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="10" x2="32" y1="628.2969" y2="628.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="27" y="643.292" />
+    <rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="10" y="608" />
+    <rect fill="#FEFECE" height="487.125" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="406" x="72.5" y="10" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="77.5" y="24.9951">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="206.5" y="24.9951">Afghanistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="10" y2="30.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="30.2969" y2="30.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="77.5" y="45.292">topLevelDomain</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="45.292" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="30.2969" y2="50.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="50.5938" y2="50.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="77.5" y="65.5889">alpha2Code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="206.5" y="65.5889">AF</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="50.5938" y2="70.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="70.8906" y2="70.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="77.5" y="85.8857">alpha3Code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="206.5" y="85.8857">AFG</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="70.8906" y2="91.1875" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="91.1875" y2="91.1875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="77.5" y="106.1826">callingCodes</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="106.1826" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="91.1875" y2="111.4844" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="111.4844" y2="111.4844" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="77.5" y="126.4795">capital</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="206.5" y="126.4795">Kabul</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="111.4844" y2="131.7813" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="131.7813" y2="131.7813" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="77.5" y="146.7764">altSpellings</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="146.7764" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="131.7813" y2="152.0781" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="152.0781" y2="152.0781" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="77.5" y="167.0732">region</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="206.5" y="167.0732">Asia</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="152.0781" y2="172.375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="172.375" y2="172.375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="77.5" y="187.3701">subregion</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="206.5" y="187.3701">Southern Asia</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="172.375" y2="192.6719" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="192.6719" y2="192.6719" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="77.5" y="207.667">population</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="206.5" y="207.667">27657145</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="192.6719" y2="212.9688" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="212.9688" y2="212.9688" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="77.5" y="227.9639">latlng</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="227.9639" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="212.9688" y2="233.2656" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="233.2656" y2="233.2656" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="77.5" y="248.2607">demonym</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="206.5" y="248.2607">Afghan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="233.2656" y2="253.5625" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="253.5625" y2="253.5625" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="77.5" y="268.5576">area</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="206.5" y="268.5576">652230.0</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="253.5625" y2="273.8594" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="273.8594" y2="273.8594" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="77.5" y="288.8545">gini</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="206.5" y="288.8545">27.8</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="273.8594" y2="294.1563" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="294.1563" y2="294.1563" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="77.5" y="309.1514">timezones</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="309.1514" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="294.1563" y2="314.4531" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="314.4531" y2="314.4531" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="77.5" y="329.4482">borders</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="329.4482" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="314.4531" y2="334.75" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="334.75" y2="334.75" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="77.5" y="349.7451">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="206.5" y="349.7451">افغانستان</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="334.75" y2="355.0469" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="355.0469" y2="355.0469" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="77.5" y="370.042">numericCode</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="206.5" y="370.042">004</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="355.0469" y2="375.3438" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="375.3438" y2="375.3438" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="77.5" y="390.3389">currencies</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="390.3389" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="375.3438" y2="395.6406" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="395.6406" y2="395.6406" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="77.5" y="410.6357">languages</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="410.6357" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="395.6406" y2="415.9375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="415.9375" y2="415.9375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="77.5" y="430.9326">translations</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="430.9326" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="415.9375" y2="436.2344" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="436.2344" y2="436.2344" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="77.5" y="451.2295">flag</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="267" x="206.5" y="451.2295">https://restcountries.eu/data/afg.svg</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="436.2344" y2="456.5313" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="456.5313" y2="456.5313" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="77.5" y="471.5264">regionalBlocs</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="218.5" y="471.5264" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="456.5313" y2="476.8281" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="72.5" x2="478.5" y1="476.8281" y2="476.8281" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="77.5" y="491.8232">cioc</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="206.5" y="491.8232">AFG</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="201.5" x2="201.5" y1="476.8281" y2="497.125" />
+    <rect fill="none" height="487.125" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="406" x="72.5" y="10" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="29" x="571" y="29.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="576" y="44.4951">.af</text>
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="29" x="571" y="29.5" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="28" x="571.5" y="67.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="576.5" y="82.4951">93</text>
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="28" x="571.5" y="67.5" />
+    <rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="87" x="542" y="106" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="547" y="120.9951">AF</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="542" x2="629" y1="126.2969" y2="126.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="547" y="141.292">Afġānistān</text>
+    <rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="87" x="542" y="106" />
+    <rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="42" x="564.5" y="165" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="569.5" y="179.9951">33.0</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="564.5" x2="606.5" y1="185.2969" y2="185.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="569.5" y="200.292">65.0</text>
+    <rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="42" x="564.5" y="165" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="89" x="541" y="224.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="546" y="239.4951">UTC+04:30</text>
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="89" x="541" y="224.5" />
+    <rect fill="#FEFECE" height="121.7813" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="41" x="565" y="262.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="24" x="570" y="277.4951">IRN</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="282.7969" y2="282.7969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="570" y="297.792">PAK</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="303.0938" y2="303.0938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="570" y="318.0889">TKM</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="323.3906" y2="323.3906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="570" y="338.3857">UZB</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="343.6875" y2="343.6875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="570" y="358.6826">TJK</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="363.9844" y2="363.9844" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="570" y="378.9795">CHN</text>
+    <rect fill="none" height="121.7813" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="41" x="565" y="262.5" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="402.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="417.4951" />
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="402.5" />
+    <rect fill="#FEFECE" height="60.8906" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="180" x="844" y="291" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="849" y="305.9951">code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="911" y="305.9951">AFN</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="906" x2="906" y1="291" y2="311.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="844" x2="1024" y1="311.2969" y2="311.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="849" y="326.292">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="911" y="326.292">Afghan afghani</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="906" x2="906" y1="311.2969" y2="331.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="844" x2="1024" y1="331.5938" y2="331.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="849" y="346.5889">symbol</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="8" x="911" y="346.5889">؋</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="906" x2="906" y1="331.5938" y2="351.8906" />
+    <rect fill="none" height="60.8906" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="180" x="844" y="291" />
+    <rect fill="#FEFECE" height="60.8906" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="441" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="455.9951" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="573.5" x2="595.5" y1="461.2969" y2="461.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="476.292" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="573.5" x2="595.5" y1="481.5938" y2="481.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="496.5889" />
+    <rect fill="none" height="60.8906" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="441" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="155" x="856.5" y="370" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="861.5" y="384.9951">iso639_1</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="17" x="957.5" y="384.9951">ps</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="952.5" x2="952.5" y1="370" y2="390.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="856.5" x2="1011.5" y1="390.2969" y2="390.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="861.5" y="405.292">iso639_2</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="957.5" y="405.292">pus</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="952.5" x2="952.5" y1="390.2969" y2="410.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="856.5" x2="1011.5" y1="410.5938" y2="410.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="861.5" y="425.5889">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="957.5" y="425.5889">Pashto</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="952.5" x2="952.5" y1="410.5938" y2="430.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="856.5" x2="1011.5" y1="430.8906" y2="430.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="861.5" y="445.8857">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="957.5" y="445.8857">پښتو</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="952.5" x2="952.5" y1="430.8906" y2="451.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="155" x="856.5" y="370" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="157" x="855.5" y="469" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="860.5" y="483.9951">iso639_1</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="956.5" y="483.9951">uz</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="951.5" x2="951.5" y1="469" y2="489.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="855.5" x2="1012.5" y1="489.2969" y2="489.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="860.5" y="504.292">iso639_2</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="956.5" y="504.292">uzb</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="951.5" x2="951.5" y1="489.2969" y2="509.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="855.5" x2="1012.5" y1="509.5938" y2="509.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="860.5" y="524.5889">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="956.5" y="524.5889">Uzbek</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="951.5" x2="951.5" y1="509.5938" y2="529.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="855.5" x2="1012.5" y1="529.8906" y2="529.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="860.5" y="544.8857">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="956.5" y="544.8857">Oʻzbek</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="951.5" x2="951.5" y1="529.8906" y2="550.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="157" x="855.5" y="469" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="170" x="849" y="568" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="854" y="582.9951">iso639_1</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="950" y="582.9951">tk</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="945" x2="945" y1="568" y2="588.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="849" x2="1019" y1="588.2969" y2="588.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="854" y="603.292">iso639_2</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="24" x="950" y="603.292">tuk</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="945" x2="945" y1="588.2969" y2="608.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="849" x2="1019" y1="608.5938" y2="608.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="854" y="623.5889">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="950" y="623.5889">Turkmen</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="945" x2="945" y1="608.5938" y2="628.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="849" x2="1019" y1="628.8906" y2="628.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="854" y="643.8857">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="950" y="643.8857">Türkmen</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="945" x2="945" y1="628.8906" y2="649.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="170" x="849" y="568" />
+    <rect fill="#FEFECE" height="202.9688" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="136" x="517.5" y="520" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="522.5" y="534.9951">de</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="534.9951">Afghanistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="520" y2="540.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="540.2969" y2="540.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="522.5" y="555.292">es</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="550.5" y="555.292">Afganistán</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="540.2969" y2="560.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="560.5938" y2="560.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="522.5" y="575.5889">fr</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="575.5889">Afghanistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="560.5938" y2="580.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="580.8906" y2="580.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="522.5" y="595.8857">ja</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="550.5" y="595.8857">アフガニスタン</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="580.8906" y2="601.1875" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="601.1875" y2="601.1875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="11" x="522.5" y="616.1826">it</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="616.1826">Afghanistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="601.1875" y2="621.4844" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="621.4844" y2="621.4844" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="522.5" y="636.4795">br</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="636.4795">Afeganistão</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="621.4844" y2="641.7813" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="641.7813" y2="641.7813" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="17" x="522.5" y="656.7764">pt</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="656.7764">Afeganistão</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="641.7813" y2="662.0781" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="662.0781" y2="662.0781" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="13" x="522.5" y="677.0732">nl</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="550.5" y="677.0732">Afghanistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="662.0781" y2="682.375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="682.375" y2="682.375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="15" x="522.5" y="697.3701">hr</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="550.5" y="697.3701">Afganistan</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="682.375" y2="702.6719" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517.5" x2="653.5" y1="702.6719" y2="702.6719" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="522.5" y="717.667">fa</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="550.5" y="717.667">افغانستان</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="545.5" x2="545.5" y1="702.6719" y2="722.9688" />
+    <rect fill="none" height="202.9688" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="136" x="517.5" y="520" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="741.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="756.4951" />
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="741.5" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="486" x="691" y="711" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="696" y="725.9951">acronym</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="817" y="725.9951">SAARC</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812" x2="812" y1="711" y2="731.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="691" x2="1177" y1="731.2969" y2="731.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="696" y="746.292">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="355" x="817" y="746.292">South Asian Association for Regional Cooperation</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812" x2="812" y1="731.2969" y2="751.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="691" x2="1177" y1="751.5938" y2="751.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="696" y="766.5889">otherAcronyms</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="829" y="766.5889" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812" x2="812" y1="751.5938" y2="771.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="691" x2="1177" y1="771.8906" y2="771.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="696" y="786.8857">otherNames</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="829" y="786.8857" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812" x2="812" y1="771.8906" y2="792.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="486" x="691" y="711" />
+    <rect fill="#FEFECE" height="15" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="30" x="1214" y="746.5" />
+    <rect fill="none" height="15" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="30" x="1214" y="746.5" />
+    <rect fill="#FEFECE" height="15" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="30" x="1214" y="780.5" />
+    <rect fill="none" height="15" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="30" x="1214" y="780.5" />
+    <rect fill="#FEFECE" height="487.125" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="409" x="71" y="760" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="76" y="774.9951">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="205" y="774.9951">Spain</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="760" y2="780.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="780.2969" y2="780.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="76" y="795.292">topLevelDomain</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="795.292" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="780.2969" y2="800.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="800.5938" y2="800.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="76" y="815.5889">alpha2Code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="205" y="815.5889">ES</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="800.5938" y2="820.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="820.8906" y2="820.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="76" y="835.8857">alpha3Code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="205" y="835.8857">ESP</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="820.8906" y2="841.1875" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="841.1875" y2="841.1875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="76" y="856.1826">callingCodes</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="856.1826" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="841.1875" y2="861.4844" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="861.4844" y2="861.4844" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="76" y="876.4795">capital</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="205" y="876.4795">Madrid</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="861.4844" y2="881.7813" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="881.7813" y2="881.7813" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="76" y="896.7764">altSpellings</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="896.7764" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="881.7813" y2="902.0781" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="902.0781" y2="902.0781" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="76" y="917.0732">region</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="205" y="917.0732">Europe</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="902.0781" y2="922.375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="922.375" y2="922.375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="76" y="937.3701">subregion</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="205" y="937.3701">Southern Europe</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="922.375" y2="942.6719" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="942.6719" y2="942.6719" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="76" y="957.667">population</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="205" y="957.667">46438422</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="942.6719" y2="962.9688" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="962.9688" y2="962.9688" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="76" y="977.9639">latlng</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="977.9639" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="962.9688" y2="983.2656" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="983.2656" y2="983.2656" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="76" y="998.2607">demonym</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="205" y="998.2607">Spanish</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="983.2656" y2="1003.5625" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1003.5625" y2="1003.5625" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="76" y="1018.5576">area</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="205" y="1018.5576">505992.0</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1003.5625" y2="1023.8594" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1023.8594" y2="1023.8594" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="76" y="1038.8545">gini</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="205" y="1038.8545">34.7</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1023.8594" y2="1044.1563" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1044.1563" y2="1044.1563" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="76" y="1059.1514">timezones</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1059.1514" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1044.1563" y2="1064.4531" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1064.4531" y2="1064.4531" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="76" y="1079.4482">borders</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1079.4482" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1064.4531" y2="1084.75" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1084.75" y2="1084.75" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="76" y="1099.7451">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="205" y="1099.7451">España</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1084.75" y2="1105.0469" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1105.0469" y2="1105.0469" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="76" y="1120.042">numericCode</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="205" y="1120.042">724</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1105.0469" y2="1125.3438" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1125.3438" y2="1125.3438" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="76" y="1140.3389">currencies</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1140.3389" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1125.3438" y2="1145.6406" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1145.6406" y2="1145.6406" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="76" y="1160.6357">languages</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1160.6357" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1145.6406" y2="1165.9375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1165.9375" y2="1165.9375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="76" y="1180.9326">translations</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1180.9326" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1165.9375" y2="1186.2344" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1186.2344" y2="1186.2344" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="76" y="1201.2295">flag</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="270" x="205" y="1201.2295">https://restcountries.eu/data/esp.svg</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1186.2344" y2="1206.5313" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1206.5313" y2="1206.5313" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="76" y="1221.5264">regionalBlocs</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="217" y="1221.5264" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1206.5313" y2="1226.8281" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="71" x2="480" y1="1226.8281" y2="1226.8281" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="76" y="1241.8232">cioc</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="205" y="1241.8232">ESP</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="200" x2="200" y1="1226.8281" y2="1247.125" />
+    <rect fill="none" height="487.125" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="409" x="71" y="760" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="31" x="570" y="779.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="21" x="575" y="794.4951">.es</text>
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="31" x="570" y="779.5" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="27" x="572" y="817.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="17" x="577" y="832.4951">34</text>
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="27" x="572" y="817.5" />
+    <rect fill="#FEFECE" height="60.8906" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="137" x="517" y="856" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="522" y="870.9951">ES</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517" x2="654" y1="876.2969" y2="876.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="522" y="891.292">Kingdom of Spain</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="517" x2="654" y1="896.5938" y2="896.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="522" y="911.5889">Reino de España</text>
+    <rect fill="none" height="60.8906" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="137" x="517" y="856" />
+    <rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="41" x="565" y="935" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="570" y="949.9951">40.0</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="565" x2="606" y1="955.2969" y2="955.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="570" y="970.292">-4.0</text>
+    <rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="41" x="565" y="935" />
+    <rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="90" x="540.5" y="994" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="545.5" y="1008.9951">UTC</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="540.5" x2="630.5" y1="1014.2969" y2="1014.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="545.5" y="1029.292">UTC+01:00</text>
+    <rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="90" x="540.5" y="994" />
+    <rect fill="#FEFECE" height="101.4844" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="42" x="564.5" y="1053" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="569.5" y="1067.9951">AND</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="564.5" x2="606.5" y1="1073.2969" y2="1073.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="569.5" y="1088.292">FRA</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="564.5" x2="606.5" y1="1093.5938" y2="1093.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="569.5" y="1108.5889">GIB</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="564.5" x2="606.5" y1="1113.8906" y2="1113.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="569.5" y="1128.8857">PRT</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="564.5" x2="606.5" y1="1134.1875" y2="1134.1875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="569.5" y="1149.1826">MAR</text>
+    <rect fill="none" height="101.4844" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="42" x="564.5" y="1053" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="1172.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="1187.4951" />
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="1172.5" />
+    <rect fill="#FEFECE" height="60.8906" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="104" x="882" y="1126" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="887" y="1140.9951">code</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="949" y="1140.9951">EUR</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="944" x2="944" y1="1126" y2="1146.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="882" x2="986" y1="1146.2969" y2="1146.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="887" y="1161.292">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="949" y="1161.292">Euro</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="944" x2="944" y1="1146.2969" y2="1166.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="882" x2="986" y1="1166.5938" y2="1166.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="887" y="1181.5889">symbol</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="9" x="949" y="1181.5889">€</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="944" x2="944" y1="1166.5938" y2="1186.8906" />
+    <rect fill="none" height="60.8906" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="104" x="882" y="1126" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="1210.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="1225.4951" />
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="1210.5" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="162" x="853" y="1205" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="858" y="1219.9951">iso639_1</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="954" y="1219.9951">es</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="949" x2="949" y1="1205" y2="1225.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="853" x2="1015" y1="1225.2969" y2="1225.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="858" y="1240.292">iso639_2</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="954" y="1240.292">spa</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="949" x2="949" y1="1225.2969" y2="1245.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="853" x2="1015" y1="1245.5938" y2="1245.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="858" y="1260.5889">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="954" y="1260.5889">Spanish</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="949" x2="949" y1="1245.5938" y2="1265.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="853" x2="1015" y1="1265.8906" y2="1265.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="858" y="1280.8857">nativeName</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="954" y="1280.8857">Español</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="949" x2="949" y1="1265.8906" y2="1286.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="162" x="853" y="1205" />
+    <rect fill="#FEFECE" height="202.9688" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="115" x="528" y="1249" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="533" y="1263.9951">de</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="561" y="1263.9951">Spanien</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1249" y2="1269.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1269.2969" y2="1269.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="533" y="1284.292">es</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="561" y="1284.292">España</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1269.2969" y2="1289.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1289.5938" y2="1289.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="533" y="1304.5889">fr</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="561" y="1304.5889">Espagne</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1289.5938" y2="1309.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1309.8906" y2="1309.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="533" y="1324.8857">ja</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="561" y="1324.8857">スペイン</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1309.8906" y2="1330.1875" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1330.1875" y2="1330.1875" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="11" x="533" y="1345.1826">it</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="561" y="1345.1826">Spagna</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1330.1875" y2="1350.4844" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1350.4844" y2="1350.4844" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="533" y="1365.4795">br</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="561" y="1365.4795">Espanha</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1350.4844" y2="1370.7813" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1370.7813" y2="1370.7813" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="17" x="533" y="1385.7764">pt</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="561" y="1385.7764">Espanha</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1370.7813" y2="1391.0781" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1391.0781" y2="1391.0781" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="13" x="533" y="1406.0732">nl</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="561" y="1406.0732">Spanje</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1391.0781" y2="1411.375" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1411.375" y2="1411.375" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="15" x="533" y="1426.3701">hr</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="561" y="1426.3701">Španjolska</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1411.375" y2="1431.6719" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="528" x2="643" y1="1431.6719" y2="1431.6719" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="533" y="1446.667">fa</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="561" y="1446.667">اسپانیا</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="556" x2="556" y1="1431.6719" y2="1451.9688" />
+    <rect fill="none" height="202.9688" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="115" x="528" y="1249" />
+    <rect fill="#FEFECE" height="20.2969" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="22" x="573.5" y="1470.5" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="590.5" y="1485.4951" />
+    <rect fill="none" height="20.2969" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="22" x="573.5" y="1470.5" />
+    <rect fill="#FEFECE" height="81.1875" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="243" x="812.5" y="1440" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="817.5" y="1454.9951">acronym</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="938.5" y="1454.9951">EU</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="933.5" x2="933.5" y1="1440" y2="1460.2969" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812.5" x2="1055.5" y1="1460.2969" y2="1460.2969" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="817.5" y="1475.292">name</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="938.5" y="1475.292">European Union</text>
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="933.5" x2="933.5" y1="1460.2969" y2="1480.5938" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812.5" x2="1055.5" y1="1480.5938" y2="1480.5938" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="817.5" y="1495.5889">otherAcronyms</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="950.5" y="1495.5889" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="933.5" x2="933.5" y1="1480.5938" y2="1500.8906" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="812.5" x2="1055.5" y1="1500.8906" y2="1500.8906" />
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="817.5" y="1515.8857">otherNames</text>
+    <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="950.5" y="1515.8857" />
+    <line style="stroke:#A80036;stroke-width:1.0;" x1="933.5" x2="933.5" y1="1500.8906" y2="1521.1875" />
+    <rect fill="none" height="81.1875" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="243" x="812.5" y="1440" />
+    <rect fill="#FEFECE" height="15" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="30" x="1214" y="1475.5" />
+    <rect fill="none" height="15" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="30" x="1214" y="1475.5" />
+    <rect fill="#FEFECE" height="15" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="30" x="1214" y="1509.5" />
+    <rect fill="none" height="15" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="30" x="1214" y="1509.5" />
+    <path d="M467,39.5 L480,39.5 C508.9673,39.5 542.4298,39.5 563.6457,39.5 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M563.6457,42.6049 L565.9744,39.5 L563.6457,36.3951 L571.408,39.5 L563.6457,42.6049 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="39.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,100.5 L480,100.5 C496.2354,100.5 538.9082,89.8746 564.5797,83.0677 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.3693,86.0169 L566.7916,82.4755 L563.7901,80.1184 L571.9528,81.0938 L565.3693,86.0169 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="100.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,141.5 L480,141.5 C497.8848,141.5 517.3126,139.3409 534.5381,136.661 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M535.043,139.7594 L536.8619,136.2824 L534.0333,133.5626 L542.2842,135.3989 L535.043,139.7594 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="141.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,222.5 L480,222.5 C495.3702,222.5 532.1705,208.2186 557.8402,197.4011 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M559.018,200.1683 L559.9156,196.5178 L556.6624,194.6339 L564.7582,194.4567 L559.018,200.1683 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="222.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,304.5 L480,304.5 C508.0035,304.5 494.012,269.4921 517,253.5 C522.2073,249.8775 528.088,246.9431 534.1571,244.5667 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M535.1736,247.4395 L536.3118,243.8043 L533.1407,241.6938 L541.3392,242.0255 L535.1736,247.4395 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="304.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,324.5 L480,324.5 C506.3487,324.5 536.415,324.1812 557.6021,323.9037 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M557.6436,326.9673 L559.8999,323.8726 L557.5607,320.84 L565.2613,323.8 L557.6436,326.9673 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="324.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M585.5381,412.9136 L598.3797,410.8903 C612.7269,408.6298 636.7349,403.605 655,393.5 C673.9923,382.9927 671.4624,369.9547 691,360.5 C735.9947,338.726 790.6298,328.7155 836.6419,324.2608 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M836.9193,327.3013 L838.9223,324.0528 L836.3645,321.2203 L844.2431,323.5674 L836.9193,327.3013 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="585.5381" cy="412.9136" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,385.5 L480,385.5 C488.6084,385.5 538.5342,399.2882 566.3293,407.1581 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.4739,410.1674 L568.5863,407.7997 L567.1847,404.1488 L573.8525,409.2967 L565.4739,410.1674 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="385.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M586,450.5 L599,450.5 C684.6007,450.5 781.6573,437.4256 849.0913,426.2265 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M849.6056,429.2914 L851.39,425.8408 L848.5771,423.1616 L856.7536,424.9409 L849.6056,429.2914 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="586" cy="450.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M586,470.5 L599,470.5 C684.1487,470.5 780.6742,483.122 848.0744,494.0049 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M847.5745,497.0691 L850.3726,494.3798 L848.5743,490.9406 L855.735,495.2546 L847.5745,497.0691 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="586" cy="470.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M586,491.5 L599,491.5 C625.2824,491.5 633.7198,495.0754 655,510.5 C676.5914,526.1501 668.4821,544.2151 691,558.5 C735.7917,586.915 793.7464,599.5539 841.7671,605.0235 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M841.44,608.0708 L844.0525,605.2688 L842.0941,601.9762 L849.3852,605.8411 L841.44,608.0708 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="586" cy="491.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,405.5 L480,405.5 C500.0985,405.5 500.1022,420.6182 517,431.5 C533.6703,442.2353 553.2319,453.6204 567.0838,461.4874 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.5754,464.1585 L569.0872,462.6188 L568.5923,458.8163 L573.7615,465.2586 L565.5754,464.1585 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="405.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,425.5 L480,425.5 C521.2017,425.5 497.9703,473.9562 517,510.5 C517.455,511.3738 517.9143,512.2501 518.3775,513.1284 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M515.6698,514.578 L519.4646,515.1592 L521.0852,511.6788 L522.0014,519.8977 L515.6698,514.578 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="425.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1165,761.5 L1178,761.5 C1187.5729,761.5 1198.1162,760.0913 1206.8327,758.5377 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1207.4051,761.5022 L1209.056,758.1084 L1206.2602,755.5733 L1214.2438,757.1065 L1207.4051,761.5022 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="1165" cy="761.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1165,781.5 L1178,781.5 C1187.5729,781.5 1198.1162,782.9087 1206.8327,784.4623 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1206.2602,787.4267 L1209.056,784.8916 L1207.4051,781.4978 L1214.2438,785.8935 L1206.2602,787.4267 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="1165" cy="781.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M585.3677,751.5 L598.3677,751.5 C614.8599,751.5 646.3518,751.5 683.6803,751.5 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M683.6803,754.5163 L685.9425,751.5 L683.6803,748.4837 L691.2211,751.5 L683.6803,754.5163 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="585.3677" cy="751.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M467,466.5 L480,466.5 C539.4601,466.5 478.1637,686.475 517,731.5 C529.1829,745.6243 550.7785,750.0342 566.3692,751.2818 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M566.2096,754.2914 L568.6263,751.4015 L566.5287,748.2723 L573.893,751.6807 L566.2096,754.2914 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="467" cy="466.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M22.5,619.5 L22.5,606.5 C22.5,553.7144 41.4084,503.3842 68.8767,458.1182 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M71.5333,459.7636 L70.1108,456.1258 L66.2201,456.4728 L72.9903,451.4767 L71.5333,459.7636 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="22.5" cy="619.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,789.5 L481,789.5 C509.0538,789.5 541.3643,789.5 562.4304,789.5 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M562.4304,792.6034 L564.7579,789.5 L562.4304,786.3966 L570.1888,789.5 L562.4304,792.6034 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="789.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,850.5 L481,850.5 C497.1717,850.5 539.7927,839.7636 565.1722,832.9616 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.9596,835.8714 L567.3546,832.3711 L564.3849,830.0518 L572.4468,830.9932 L565.9596,835.8714 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="850.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,891.5 L481,891.5 C490.2712,891.5 500.002,891.2993 509.636,890.9783 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M509.7487,894.0563 L511.9445,890.8938 L509.5234,887.9004 L517.331,890.6967 L509.7487,894.0563 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="891.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,972.5 L481,972.5 C507.2807,972.5 536.8136,967.1473 557.674,962.449 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M558.3765,965.4672 L559.9377,961.9222 L556.9716,959.4308 L565.2195,960.6929 L558.3765,965.4672 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="972.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1054.5 L481,1054.5 C486.8511,1054.5 510.3998,1045.5662 533.6117,1036.1426 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M534.7841,1039.0118 L535.7636,1035.2634 L532.4393,1033.2735 L540.7846,1033.2117 L534.7841,1039.0118 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1054.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1074.5 L481,1074.5 C507.7107,1074.5 536.9092,1083.4856 557.5495,1091.4533 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M556.4012,1094.332 L559.7085,1092.3146 L558.6979,1088.5747 L564.7462,1094.3242 L556.4012,1094.332 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1074.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M585.4039,1182.5446 L598.3677,1181.5746 C642.0414,1178.307 790.9024,1167.1692 874.7899,1160.8927 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M875.0192,1163.9573 L877.0883,1160.7207 L874.5606,1157.8281 L882.4513,1160.3195 L875.0192,1163.9573 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="585.4039" cy="1182.5446" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1135.5 L481,1135.5 C501,1135.5 499.1216,1153.5355 517,1162.5 C532.8163,1170.4305 552.3166,1175.7616 566.3735,1178.9116 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.7312,1181.943 L568.647,1179.3934 L567.0158,1175.8802 L573.952,1180.5174 L565.7312,1181.943 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1135.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M585.4012,1220.4569 L598.3677,1221.3898 C637.3322,1224.193 760.0228,1233.0196 845.6008,1239.1763 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M845.3809,1242.2338 L847.894,1239.3413 L845.8208,1236.1188 L853.2446,1239.7262 L845.3809,1242.2338 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="585.4012" cy="1220.4569" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1155.5 L481,1155.5 C506.961,1155.5 495.4222,1187.0648 517,1201.5 C531.819,1211.4137 551.7504,1216.1956 566.2008,1218.4768 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M565.7712,1221.5947 L568.5393,1218.7991 L566.6305,1215.3589 L573.9956,1219.5509 L565.7712,1221.5947 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1155.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1175.5 L481,1175.5 C513.6357,1175.5 500.473,1211.3585 517,1239.5 C519.4034,1243.5923 521.87,1247.7602 524.3734,1251.9637 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M521.7218,1253.5478 L525.5615,1253.9524 L527.025,1250.3796 L528.3336,1258.5927 L521.7218,1253.5478 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1175.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1044.5,1490.5 L1057.5,1490.5 C1111.6671,1490.5 1175.573,1486.8224 1206.6422,1484.7985 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1206.8512,1487.9412 L1208.9992,1484.6417 L1206.4331,1481.6557 L1214.4991,1484.2759 L1206.8512,1487.9412 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="1044.5" cy="1490.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1044.5,1510.5 L1057.5,1510.5 C1111.6671,1510.5 1175.573,1514.1776 1206.6422,1516.2015 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M1206.4331,1519.3443 L1208.9992,1516.3583 L1206.8512,1513.0588 L1214.4991,1516.7241 L1206.4331,1519.3443 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="1044.5" cy="1510.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M585.3677,1480.5 L598.3677,1480.5 C631.5146,1480.5 725.2525,1480.5 805.1893,1480.5 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M805.1893,1483.5761 L807.4963,1480.5 L805.1893,1477.4239 L812.8795,1480.5 L805.1893,1483.5761 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="585.3677" cy="1480.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M468,1216.5 L481,1216.5 C535.8092,1216.5 481.0407,1419.136 517,1460.5 C529.2376,1474.5769 550.8232,1478.9956 566.3965,1480.2582 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M566.2337,1483.264 L568.6508,1480.3803 L566.5593,1477.2524 L573.9109,1480.6652 L566.2337,1483.264 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="468" cy="1216.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M22.5,637.5 L22.5,650.5 C22.5,702.3878 40.7708,751.9032 67.4827,796.5679 " fill="none" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" />
+    <path d="M64.861,798.1684 L68.6831,798.5342 L70.1045,794.9674 L71.4839,803.1223 L64.861,798.1684 " fill="#A80036" style="stroke:#A80036;stroke-width:1.0;" />
+    <ellipse cx="22.5" cy="637.5" fill="#A80036" rx="3" ry="3" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:3.0,3.0;" /> <!--MD5=[6396a637c5f15bf8a4671c59d644b94a]
+  @startjson
+  
+  [
+    {
+      "name": "Afghanistan",
+      "topLevelDomain": [
+        ".af"
+      ],
+      "alpha2Code": "AF",
+      "alpha3Code": "AFG",
+      "callingCodes": [
+        "93"
+      ],
+      "capital": "Kabul",
+      "altSpellings": [
+        "AF",
+        "Afġānistān"
+      ],
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 27657145,
+      "latlng": [
+        33.0,
+        65.0
+      ],
+      "demonym": "Afghan",
+      "area": 652230.0,
+      "gini": 27.8,
+      "timezones": [
+        "UTC+04:30"
+      ],
+      "borders": [
+        "IRN",
+        "PAK",
+        "TKM",
+        "UZB",
+        "TJK",
+        "CHN"
+      ],
+      "nativeName": "افغانستان",
+      "numericCode": "004",
+      "currencies": [
+        {
+          "code": "AFN",
+          "name": "Afghan afghani",
+          "symbol": "؋"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "ps",
+          "iso639_2": "pus",
+          "name": "Pashto",
+          "nativeName": "پښتو"
+        },
+        {
+          "iso639_1": "uz",
+          "iso639_2": "uzb",
+          "name": "Uzbek",
+          "nativeName": "Oʻzbek"
+        },
+        {
+          "iso639_1": "tk",
+          "iso639_2": "tuk",
+          "name": "Turkmen",
+          "nativeName": "Türkmen"
+        }
+      ],
+      "translations": {
+        "de": "Afghanistan",
+        "es": "Afganistán",
+        "fr": "Afghanistan",
+        "ja": "アフガニスタン",
+        "it": "Afghanistan",
+        "br": "Afeganistão",
+        "pt": "Afeganistão",
+        "nl": "Afghanistan",
+        "hr": "Afganistan",
+        "fa": "افغانستان"
+      },
+      "flag": "https://restcountries.eu/data/afg.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "SAARC",
+          "name": "South Asian Association for Regional Cooperation",
+          "otherAcronyms": [],
+          "otherNames": []
+        }
+      ],
+      "cioc": "AFG"
+    },
+    {
+      "name": "Spain",
+      "topLevelDomain": [
+        ".es"
+      ],
+      "alpha2Code": "ES",
+      "alpha3Code": "ESP",
+      "callingCodes": [
+        "34"
+      ],
+      "capital": "Madrid",
+      "altSpellings": [
+        "ES",
+        "Kingdom of Spain",
+        "Reino de España"
+      ],
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 46438422,
+      "latlng": [
+        40.0,
+        -4.0
+      ],
+      "demonym": "Spanish",
+      "area": 505992.0,
+      "gini": 34.7,
+      "timezones": [
+        "UTC",
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AND",
+        "FRA",
+        "GIB",
+        "PRT",
+        "MAR"
+      ],
+      "nativeName": "España",
+      "numericCode": "724",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        }
+      ],
+      "translations": {
+        "de": "Spanien",
+        "es": "España",
+        "fr": "Espagne",
+        "ja": "スペイン",
+        "it": "Spagna",
+        "br": "Espanha",
+        "pt": "Espanha",
+        "nl": "Spanje",
+        "hr": "Španjolska",
+        "fa": "اسپانیا"
+      },
+      "flag": "https://restcountries.eu/data/esp.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "EU",
+          "name": "European Union",
+          "otherAcronyms": [],
+          "otherNames": []
+        }
+      ],
+      "cioc": "ESP"
+    }
+  ]
+  
+  
+  @endjson
+  
+  PlantUML version 1.2021.6beta6(Unknown compile time)
+  (GPL source distribution)
+  Java Runtime: Java(TM) SE Runtime Environment
+  JVM: Java HotSpot(TM) 64-Bit Server VM
+  Default Encoding: UTF-8
+  Language: en
+  Country: US
+  -->
+  </g>
+</svg>
