@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  color: orange;
+  width: 80%;
+  position: relative;
+  left: 10%;
+  padding: 0;
+  border: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.row {
+  height: 160px;
+  margin: 0;
+  padding: 3%;
+}
+
+.rowArrow {
+  height: 55px;
+  margin: 0;
+  border: 0;
+}
+
+div {
+  padding: 3px;
+  border: 1px orange solid;
+  margin: 7px;
+}
+
+.text {
+  text-align: center;
+}
+
+.box {
+  float: left;
+  width: 40%;
+}
+
+.equal {
+  width: 10%;
+}
+
+.center {
+  margin-left: 3%;
+}
+
+line {
+  stroke-width: 3;
+  stroke: orange;
+}
+
+polyline {
+  fill: black;
+  stroke: orange;
+  stroke-width: 3;
+}
+
+.boxArrow {
+  border: 0;
+  float: left;
+  width: 30%;
+  margin: 0;
+}
+
+.right {
+  float: right;
+}
