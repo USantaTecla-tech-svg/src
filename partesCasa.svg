@@ -1,0 +1,22 @@
+<svg version="1.1" width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l500 0 l0 300 l-500 0 z"
+                id="back" />
+                <path d="M 320 110 l 100 0 l -50 -100 Z"
+                id="triangle" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 10 185 l 100 0 l 0 100 l -100 0 Z"
+                id="front" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 10 65 l 200 -50  l 0 100 l -200 50 Z"
+                id="wall" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 160 260 l 200 -50  l -50 -100 l -200 50 Z"
+                id="ceil" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 240 100 l 50 0 l 0 -75 l -50 0 Z"
+                id="door" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 310 240 l 100 -25 l 0 50 l -100 25 Z"
+                id="window" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 250 245 l 0 50 M 200 280 l 100 -25"
+                id="cross" stroke="white" stroke-width="3" fill="none" />
+                <circle cx="30" cy="30" r="20"
+                id="circle" stroke="white" stroke-width="3" fill="none" />
+                <path d="M 400 140 l 15 0 M 400 140 l 0 -20"
+                id="needles" stroke="white" stroke-width="3" fill="none" />
+</svg>

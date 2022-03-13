@@ -1,0 +1,20 @@
+<svg version="1.1" width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l800 0 l0 400 l-1000 0 z" id="fondo"/>
+    <line x1="50" y1="130" x2="50" y2="300" stroke="orange" stroke-width="4" />
+    <polyline points="45,130 50,120 55,130"  fill="none" stroke="orange" stroke-width="4" />
+    <line x1="50" y1="300" x2="600" y2="300" stroke="orange" stroke-width="4" />
+    <polyline points="600,295 610,300 600,305"  fill="none" stroke="orange" stroke-width="4" />
+    <path d="M55,293 C355,105 270,165 600,290" stroke="red"  stroke-width="3" fill="none"></path>
+    <path d="M65,295 C375,215 450,175 600,205" stroke="green"  stroke-width="3" fill="none"></path>
+    <path d="M70,295 C335,255 460,195 600,245" stroke="blue"  stroke-width="3" fill="none"></path>
+    <text x="240" y="240"  fill="orange">
+       <tspan x="40" y="330">1960</tspan>
+       <tspan x="186" y="330">1980</tspan>
+       <tspan x="372" y="330">2000</tspan>
+       <tspan x="600" y="330">2020</tspan>
+       <tspan x="290" y="150" fill="red">CASCADA</tspan>
+       <tspan x="480" y="180" fill="green">AGIL</tspan>
+       <tspan x="6O0" y="220" fill="blue">RUP</tspan>
+     </text>
+     <text x="-275" y="35" fill="orange" transform="rotate(-90)">POPULARIDAD</text>
+</svg>

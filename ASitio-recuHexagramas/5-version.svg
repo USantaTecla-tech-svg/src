@@ -1,0 +1,19 @@
+<svg version="1.1" width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l1050 0 l0 1200 l-1050 0 z" id="fondo"/>
+    <path d="M 450 360 L300 600 L600 600 Z" stroke="white" stroke-width="30" fill="none" />
+    <path d="M 450 685 L290 450 L605 450 Z"  stroke="blue" stroke-width="30" fill="none" />
+    <path d="M 450 980 L 20 300 L900 300 Z" stroke="green" stroke-width="30" fill="none" />
+    <path d="M 450 80 L30 750 L900 750 Z" stroke="red" stroke-width="30" fill="none" />
+    <text>
+      <tspan x="380" y="1040" fill="green" font-size="30">Requisitos</tspan>
+      <tspan x="15" y="270" fill="green" font-size="30">Tiempo</tspan>
+      <tspan x="860" y="270" fill="green" font-size="30">Coste</tspan>
+      <tspan x="389" y="40" fill="red" font-size="30">Gestión</tspan>
+      <tspan x="190" y="420" fill="blue" font-size="30">Programación</tspan>
+      <tspan x="570" y="420" fill="blue" font-size="30">Pruebas</tspan>
+      <tspan x="375" y="735" fill="blue" font-size="30">Despliegue</tspan>
+      <tspan x="15" y="800" fill="red" font-size="30">Riesgo</tspan>
+      <tspan x="840" y="800" fill="red" font-size="30">Cambio</tspan>
+      <tspan x="400" y="540" fill="white" font-size="30">Diseño</tspan>
+    </text>
+</svg>

@@ -1,0 +1,74 @@
+<svg version="1.1" width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l600 0 l0 400 l-1000 0 z" id="fondo"/>
+    <rect width="400" height="50"  x="40" y="90" fill= "green" stroke-width="3" stroke="black"></rect>
+    <rect width="400" height="50"  x="40" y="160" fill="green" stroke-width="3" stroke="black"></rect>
+    <rect width="400" height="50"  x="40" y="230" fill= "green" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="70" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="70" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="70" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="70" y="230" fill= "red"  stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="90" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="90" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="90" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="90" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="110" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="110" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="110" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="110" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="130" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="130" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="130" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="130" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="160" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="160" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="160" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="160" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="180" y="70" fill= " blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="180" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="180" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="180" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="200" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="200" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="200" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="200" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="220" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="220" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="220" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="220" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="250" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="250" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="250" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="250" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="280" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="280" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="280" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="280" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="290" y="70" fill= " blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="290" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="290" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="290" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="310" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="310" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="310" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="310" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="340" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="340" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="340" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="340" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="360" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="360" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="360" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="360" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="380" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="380" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="380" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="380" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="230"  x="400" y="70" fill= "blue" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="400" y="90" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="400" y="160" fill= "red" stroke-width="3" stroke="black"></rect>
+    <rect width="10" height="50"  x="400" y="230" fill= "red" stroke-width="3" stroke="black"></rect>
+    <text x="460" y="125" fill="red">VISTA</text>
+    <text x="460" y="195" fill="red">CONTROLADOR</text>
+    <text x="460" y="265" fill="red">MODELO</text>
+    <text x="200" y="55" fill="red">CASOS DE USO</text>
+</svg>

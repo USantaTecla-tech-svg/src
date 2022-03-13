@@ -1,0 +1,11 @@
+<svg version="1.1" width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l1050 0 l0 1200 l-3050 0 z" id="fondo"/>
+    <path d="M 450 980 L 20 300 L900 300 Z" stroke="green" stroke-width="30" fill="none" />
+    <text>
+      <tspan x="380" y="1040" fill="green" font-size="30">Requisitos</tspan>
+      <tspan x="15" y="260" fill="green" font-size="30">Tiempo</tspan>
+      <tspan x="850" y="260" fill="green" font-size="30">Coste</tspan>
+      <tspan x="395" y="540" fill="white" font-size="30">Calidad</tspan>
+      <tspan x="70" y="1070" fill="green" font-size="70">Proyecto</tspan>
+    </text>
+</svg>
