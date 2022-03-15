@@ -1,0 +1,8 @@
+<svg version="1.1" width="850" height="850" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0 l800 0 l0 800 l-800 0 z" id="fondo"/>
+     <circle cx="350" cy="200" r="90" stroke="blue" stroke-width="2" fill="orange"/>
+     <circle cx="290" cy="300" r="90" stroke="blue" stroke-width="2" fill="transparent"/>
+     <circle cx="410" cy="300" r="90" stroke="blue" stroke-width="2" fill="transparent"/>
+     <path d="M 322 288 Q 321 271 350 230 387 285 378 287" stroke="black" stroke-width="3" fill="white"/>
+     <path d="M 322 288 Q 321 341 365 380 387 305 378 307" stroke="black" stroke-width="3" fill="white"/>
+</svg>
