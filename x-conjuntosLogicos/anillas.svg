@@ -1,66 +1,81 @@
 <svg version="1.1" width="500" height="1800" xmlns="http://www.w3.org/2000/svg">
-        <path d="M0 0 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent"/>
-        <circle cx="120" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent"/>
-        <path d="M 95 82 Q 65 50 95 19 125 50 95 82" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 100 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="150" r="40" stroke="black" stroke-width="3" fill="transparent"/>
-        <circle cx="120" cy="150" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 182 Q 65 150 95 119 125 150 95 182" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 200 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="250" r="40" stroke="black" stroke-width="3" fill="transparent"/>
-        <circle cx="120" cy="250" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 282 Q 65 250 95 219 125 250 95 282" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 300 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="350" r="40" stroke="black" stroke-width="3" fill="transparent"/>
-        <circle cx="120" cy="350" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 382 Q 65 350 95 319 125 350 95 382" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 400 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="450" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="450" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 482 Q 65 450 95 419 125 450 95 482" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 500 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="550" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="550" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 582 Q 65 550 95 519 125 550 95 582" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 600 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="650" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="650" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 682 Q 65 650 95 619 125 650 95 682" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 700 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="750" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="750" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 782 Q 65 750 95 719 125 750 95 782" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 800 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="850" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <circle cx="120" cy="850" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 882 Q 65 850 95 819 125 850 95 882" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 900 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="950" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <circle cx="120" cy="950" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 982 Q 65 950 95 919 125 950 95 982" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 1000 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1050" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <circle cx="120" cy="1050" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 1082 Q 65 1050 95 1019 125 1050 95 1082" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 1100 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1150" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <circle cx="120" cy="1150" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 1182 Q 65 1150 95 1119 125 1150 95 1182" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 1200 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1250" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="1250" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 1282 Q 65 1250 95 1219 125 1250 95 1282" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 1300 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1350" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="1350" r="40" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M 95 1382 Q 65 1350 95 1319 125 1350 95 1382" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M0 1400 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1450" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="1450" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 1482 Q 65 1450 95 1419 125 1450 95 1482" stroke="black" stroke-width="3" fill="white"/>
-        <path d="M0 1500 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3"/>
-        <circle cx="70" cy="1550" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <circle cx="120" cy="1550" r="40" stroke="black" stroke-width="3" fill="red"/>
-        <path d="M 95 1582 Q 65 1550 95 1519 125 1550 95 1582" stroke="black" stroke-width="3" fill="red"/>
+  <path d="M0 0 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <circle cx="120" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <path d="M 95 82 Q 65 50 95 19 125 50 95 82" stroke="black" stroke-width="3" fill="white" />
+  
+  <path d="M0 100 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="150" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <circle cx="120" cy="150" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 182 Q 65 150 95 119 125 150 95 182" stroke="black" stroke-width="3" fill="red" />
+  
+  <path d="M0 200 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="250" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <circle cx="120" cy="250" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 282 Q 65 250 95 219 125 250 95 282" stroke="black" stroke-width="3" fill="white" />
+  
+  <path d="M0 300 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="350" r="40" stroke="black" stroke-width="3" fill="transparent" />
+  <circle cx="120" cy="350" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 382 Q 65 350 95 319 125 350 95 382" stroke="black" stroke-width="3" fill="red" />
+  
+  <path d="M0 400 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="450" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="450" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 482 Q 65 450 95 419 125 450 95 482" stroke="black" stroke-width="3" fill="white" />
+  
+  <path d="M0 500 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="550" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="550" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 582 Q 65 550 95 519 125 550 95 582" stroke="black" stroke-width="3" fill="red" />
+ 
+  <path d="M0 600 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="650" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="650" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 682 Q 65 650 95 619 125 650 95 682" stroke="black" stroke-width="3" fill="white" />
+  
+  <path d="M0 700 l200 0 l0 100 l-200 0 z" fill="transparent" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="750" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="750" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 782 Q 65 750 95 719 125 750 95 782" stroke="black" stroke-width="3" fill="red" />
+ 
+  <path d="M0 800 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="850" r="40" stroke="black" stroke-width="3" fill="white" />
+  <circle cx="120" cy="850" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 882 Q 65 850 95 819 125 850 95 882" stroke="black" stroke-width="3" fill="white" />
+ 
+  <path d="M0 900 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="950" r="40" stroke="black" stroke-width="3" fill="white" />
+  <circle cx="120" cy="950" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 982 Q 65 950 95 919 125 950 95 982" stroke="black" stroke-width="3" fill="red" />
+  
+  <path d="M0 1000 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1050" r="40" stroke="black" stroke-width="3" fill="white" />
+  <circle cx="120" cy="1050" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 1082 Q 65 1050 95 1019 125 1050 95 1082" stroke="black" stroke-width="3" fill="white" />
+ 
+  <path d="M0 1100 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1150" r="40" stroke="black" stroke-width="3" fill="white" />
+  <circle cx="120" cy="1150" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 1182 Q 65 1150 95 1119 125 1150 95 1182" stroke="black" stroke-width="3" fill="red" />
+ 
+  <path d="M0 1200 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1250" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="1250" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 1282 Q 65 1250 95 1219 125 1250 95 1282" stroke="black" stroke-width="3" fill="white" />
+ 
+  <path d="M0 1300 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1350" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="1350" r="40" stroke="black" stroke-width="3" fill="white" />
+  <path d="M 95 1382 Q 65 1350 95 1319 125 1350 95 1382" stroke="black" stroke-width="3" fill="red" />
+ 
+  <path d="M0 1400 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1450" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="1450" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 1482 Q 65 1450 95 1419 125 1450 95 1482" stroke="black" stroke-width="3" fill="white" />
+  
+  <path d="M0 1500 l200 0 l0 100 l-200 0 z" fill="red" stroke="black" stroke-width="3" />
+  <circle cx="70" cy="1550" r="40" stroke="black" stroke-width="3" fill="red" />
+  <circle cx="120" cy="1550" r="40" stroke="black" stroke-width="3" fill="red" />
+  <path d="M 95 1582 Q 65 1550 95 1519 125 1550 95 1582" stroke="black" stroke-width="3" fill="red" />
 </svg>

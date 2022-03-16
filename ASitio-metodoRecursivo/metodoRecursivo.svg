@@ -1,15 +1,15 @@
 <svg version="1.1" width="700" height="500" xmlns="http://www.w3.org/2000/svg">
     <path d="M0 0 l500 0 l0 600 l-1000 0 z" id="fondo"/>
-    <polyline points="280 90,100 90,100 290,140 290,290 290" fill="black" stroke-width="30" stroke="orange"></polyline>
-    <polyline points="140 190,320 190,330 190,330 380,140 380" fill="none" stroke-width="30" stroke="orange"></polyline>
+    <path d="M280 90,100 90,100 290,140 290,290 290" fill="transparent" stroke-width="30" stroke="orange"></path>
+    <path d="M140 190,320 190,330 190,330 380,140 380" fill="transparent" stroke-width="30" stroke="orange"></path>
     <text>
-      <tspan x="270" y="135" fill="black" font-size="30" stroke="orange">1</tspan>
-      <tspan x="140" y="135" fill="black" font-size="30" stroke="orange">2</tspan>
-      <tspan x="140" y="340" fill="black" font-size="30" stroke="orange">3</tspan>
-      <tspan x="270" y="340" fill="black" font-size="30" stroke="orange">4</tspan>
-      <tspan x="140" y="240" fill="black" font-size="30" stroke="orange">5</tspan>
-      <tspan x="270" y="240" fill="black" font-size="30" stroke="orange">6</tspan>
-      <tspan x="140" y="430" fill="black" font-size="30" stroke="orange">7</tspan>
-      <tspan x="225" y="35" fill="black" font-size="30" stroke="orange">SVG</tspan>
+      <tspan x="270" y="135" fill="orange" font-size="30" stroke="orange">1</tspan>
+      <tspan x="140" y="135" fill="orange" font-size="30" stroke="orange">2</tspan>
+      <tspan x="140" y="340" fill="orange" font-size="30" stroke="orange">3</tspan>
+      <tspan x="270" y="340" fill="orange" font-size="30" stroke="orange">4</tspan>
+      <tspan x="140" y="240" fill="orange" font-size="30" stroke="orange">5</tspan>
+      <tspan x="270" y="240" fill="orange" font-size="30" stroke="orange">6</tspan>
+      <tspan x="140" y="430" fill="orange" font-size="30" stroke="orange">7</tspan>
+      <tspan x="225" y="35" fill="orange" font-size="30" stroke="orange">SVG</tspan>
     </text>
 </svg>

@@ -1,9 +1,9 @@
-<svg version="1.1" width="1050" height="1050" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="930" height="1050" xmlns="http://www.w3.org/2000/svg">
     <path d="M0 0 l1050 0 l0 1200 l-1050 0 z" id="fondo"/>
+    <path d="M 450 980 L 20 300 L900 300 Z" stroke="green" stroke-width="20" fill="none" />
+    <path d="M 450 80 L30 750 L900 750 Z" stroke="red" stroke-width="20" fill="none" />
+    <path d="M 450 685 L290 450 L605 450 Z"  stroke="blue" stroke-width="20" fill="none" />
    <path d="M 450 360 L300 600 L600 600 Z" stroke="white" stroke-width="20" fill="none" />
-   <path d="M 450 685 L290 450 L605 450 Z"  stroke="blue" stroke-width="20" fill="none" />
-   <path d="M 450 980 L 20 300 L900 300 Z" stroke="green" stroke-width="20" fill="none" />
-   <path d="M 450 80 L30 750 L900 750 Z" stroke="red" stroke-width="20" fill="none" />
       <text>
         <tspan x="390" y="1020" fill="green" font-size="30">Requisitos</tspan>
         <tspan x="405" y="50" fill="red" font-size="30">Gestión</tspan>
