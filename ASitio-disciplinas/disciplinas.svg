@@ -5,4 +5,13 @@
      <circle cx="410" cy="300" r="90" stroke="blue" stroke-width="2" fill="transparent"/>
      <path d="M 322 288 Q 321 271 350 230 387 285 378 287" stroke="black" stroke-width="3" fill="white"/>
      <path d="M 322 288 Q 321 341 365 380 387 305 378 307" stroke="black" stroke-width="3" fill="white"/>
+     <path d="M 255 220 A 92, 90 0 1, 1 460, 220" stroke="black" stroke-width="3" fill="yellow"/>    
+     <text>
+     <tspan x="85" y="85" fill="red" font-size="30">Requisitos</tspan>
+     <tspan x="125" y="25" fill="yellow" font-size="30">Analisis</tspan>
+     <tspan x="125" y="65" fill="green" font-size="30">Diseño</tspan>
+     <tspan x="225" y="135" fill="skyBlue" font-size="30">Implementación</tspan>
+     <tspan x="325" y="25" fill="blue" font-size="30">Pruebas</tspan>
+     <tspan x="325" y="65" fill="pink" font-size="30">Despliegue</tspan>
+     </text>
 </svg>
