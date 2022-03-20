@@ -1,13 +1,13 @@
 <svg version="1.1" width="850" height="850" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="170" cy="220" r="90" fill="red" fill-opacity="1.0"/>
-    <circle cx="110" cy="320" r="90" fill="green" fill-opacity="1.0"/>
-    <circle cx="230" cy="320" r="90" fill="blue" fill-opacity="1.0"/>
-    <text>
-        <tspan x="10" y="600" fill="red" font-size="30">Requisitos</tspan>
-        <tspan x="10" y="600" fill="yellow" font-size="30">Analisis</tspan>
-        <tspan x="10" y="600" fill="green" font-size="30">Diseño</tspan>
-        <tspan x="10" y="600" fill="skyBlue" font-size="30">Implementación</tspan>
-        <tspan x="10" y="600" fill="blue" font-size="30">Pruebas</tspan>
-        <tspan x="10" y="600" fill="pink" font-size="30">Despliegue</tspan>
-    </text>
+     <circle cx="350" cy="200" r="90" stroke="none" stroke-width="2" stroke-opacity="1" fill="#990000" fill-opacity="1"/>
+     <circle cx="290" cy="300" r="90" stroke="none" stroke-width="2" stroke-opacity="1" fill="#00FF00" fill-opacity="1"/>
+     <circle cx="410" cy="300" r="90" stroke="none" stroke-width="2" stroke-opacity="0.3" fill="#0000FF" fill-opacity="0.3"/>
+     <text>
+     <tspan x="85" y="85" fill="red" font-size="30">Requisitos</tspan>
+     <tspan x="125" y="25" fill="yellow" font-size="30">Analisis</tspan>
+     <tspan x="125" y="65" fill="green" font-size="30">Diseño</tspan>
+     <tspan x="225" y="135" fill="skyBlue" font-size="30">Implementación</tspan>
+     <tspan x="325" y="25" fill="blue" font-size="30">Pruebas</tspan>
+     <tspan x="325" y="65" fill="pink" font-size="30">Despliegue</tspan>
+     </text>
 </svg>
