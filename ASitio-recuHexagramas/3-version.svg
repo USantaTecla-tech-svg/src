@@ -1,18 +1,15 @@
-<svg version="1.1" width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 0 l1150 0 l0 1200 l-1150 0 z" id="fondo"/>
-    <path d="M 450 360 L300 600 L600 600 Z" stroke="white" stroke-width="30" fill="none" />
-    <path d="M 450 685 L290 450 L605 450 Z"  stroke="blue" stroke-width="30" fill="none" />
-    <path d="M 450 980 L 20 300 L900 300 Z" stroke="green" stroke-width="30" fill="none" />
+<svg version="1.1" width="950" height="880" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="940" height="850" fill="black" id="fondo"/>
+    <path d="M 450 170 L310 400 L610 400 Z" stroke="white" stroke-width="30" fill="none" />
+    <path d="M 450 485 L300 260 L610 260 Z"  stroke="blue" stroke-width="30" fill="none" />
+    <path d="M 450 760 L30 100 L880 100 Z" stroke="green" stroke-width="30" fill="none" />
     <text>
-      <tspan x="380" y="1040" fill="green" font-size="30">Requisitos</tspan>
-      <tspan x="15" y="270" fill="green" font-size="30">Tiempo</tspan>
-      <tspan x="840" y="270" fill="green" font-size="30">Coste</tspan>
-      <tspan x="190" y="415" fill="blue" font-size="30">Programación</tspan>
-      <tspan x="560" y="415" fill="blue" font-size="30">Pruebas</tspan>
-      <tspan x="380" y="745" fill="blue" font-size="30">Despliegue</tspan>
-      <tspan x="400" y="540" fill="white" font-size="30">Calidad</tspan>
-      <tspan x="30" y="1100" fill="green" font-size="80">Proyecto</tspan>
-      <tspan x="330" y="1100" fill="blue" font-size="80">Implantación</tspan>
-      <tspan x="770" y="1100" fill="white" font-size="80">Diseño</tspan>
+      <tspan x="380" y="820" fill="green" font-size="30">Requisitos</tspan>
+      <tspan x="15" y="70" fill="green" font-size="30">Tiempo</tspan>
+      <tspan x="840" y="70" fill="green" font-size="30">Coste</tspan>
+      <tspan x="180" y="235" fill="blue" font-size="30">Programación</tspan>
+      <tspan x="560" y="235" fill="blue" font-size="30">Pruebas</tspan>
+      <tspan x="380" y="555" fill="blue" font-size="30">Despliegue</tspan>
+      <tspan x="410" y="340" fill="white" font-size="30">Diseño</tspan>
     </text>
 </svg>

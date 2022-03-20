@@ -1,15 +1,15 @@
 <svg version="1.1" width="700" height="500" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 0 l500 0 l0 600 l-1000 0 z" id="fondo"/>
-    <path d="M280 90,100 90,100 290,140 290,290 290" fill="transparent" stroke-width="30" stroke="orange"></path>
-    <path d="M140 190,320 190,330 190,330 380,140 380" fill="transparent" stroke-width="30" stroke="orange"></path>
+    <rect x="0" y="0" width="430" height="470" fill="black" id="fondo"/>
+    <text x="190" y="45" stroke="orange" fill="orange" font-size="30">SVG</text>
+    <path d="M280 90,100 90,100 290,140 290,290 290" stroke="orange" stroke-width="30" fill="none"></path>
+    <path d="M140 190,320 190,330 190,330 380,140 380" stroke="orange" stroke-width="30" fill="none"></path>
     <text>
-      <tspan x="270" y="135" fill="orange" font-size="30" stroke="orange">1</tspan>
-      <tspan x="140" y="135" fill="orange" font-size="30" stroke="orange">2</tspan>
-      <tspan x="140" y="340" fill="orange" font-size="30" stroke="orange">3</tspan>
-      <tspan x="270" y="340" fill="orange" font-size="30" stroke="orange">4</tspan>
-      <tspan x="140" y="240" fill="orange" font-size="30" stroke="orange">5</tspan>
-      <tspan x="270" y="240" fill="orange" font-size="30" stroke="orange">6</tspan>
-      <tspan x="140" y="430" fill="orange" font-size="30" stroke="orange">7</tspan>
-      <tspan x="225" y="35" fill="orange" font-size="30" stroke="orange">SVG</tspan>
+      <tspan x="270" y="135" stroke="orange" fill="orange" font-size="30">1</tspan>
+      <tspan x="140" y="135" stroke="orange" fill="orange" font-size="30">2</tspan>
+      <tspan x="140" y="340" stroke="orange" fill="orange" font-size="30">3</tspan>
+      <tspan x="270" y="340" stroke="orange" fill="orange" font-size="30">4</tspan>
+      <tspan x="140" y="240" stroke="orange" fill="orange" font-size="30">5</tspan>
+      <tspan x="270" y="240" stroke="orange" fill="orange" font-size="30">6</tspan>
+      <tspan x="140" y="430" stroke="orange" fill="orange" font-size="30">7</tspan>
     </text>
 </svg>
