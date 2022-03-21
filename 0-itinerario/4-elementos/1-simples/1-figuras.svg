@@ -4,6 +4,6 @@
   <line x1="-1000" y1="100" x2="1000" y2="100" stroke="black" fill="none" />
   <polyline points="25 125 50 175 75 125 100 175 125 125" stroke="black" fill="none" />
 
-  <circle cx="40" cy="40" r="24" stroke="none" fill="none" />
-  <ellipse cx="40" cy="40" rx="30" ry="15" stroke="none" fill="none" />
+  <circle cx="40" cy="40" r="24" stroke="black" fill="none" />
+  <ellipse cx="40" cy="40" rx="30" ry="15" stroke="black" fill="none" />
 </svg>
