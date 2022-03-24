@@ -1,14 +1,11 @@
 <svg version="1.1" width="150" height="120" xmlns="http://www.w3.org/2000/svg">
     <circle cx="-25" cy="30" r="25" fill="green">
-        <animate attributeName="cx" 
-                 from="-25"  to="175"
-                 begin="0s" dur="1s"
-                 fill="remove" repeatCount="indefinite"/>
+        <animate attributeName="cx" from="-25" to="205" 
+            begin="0s" dur="3s" repeatCount="indefinite" />
     </circle>
-    <text >
-        <animate attributeName="cx" 
-                 from="-25"  to="175"
-                 begin="0s" dur="1s"
-                 fill="remove" repeatCount="indefinite"/>
+    <text x="-90" y="70" fill="red">
+        <animate attributeName="x" from="-90" to="140" 
+            begin="0s" dur="3s" repeatCount="indefinite" />
+        ¿a dónde vas?
     </text>
 </svg>
