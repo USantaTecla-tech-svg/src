@@ -1,5 +1,5 @@
 <svg version="1.1" width="850" height="850" xmlns="http://www.w3.org/2000/svg">
-    <rect x="20" y="50" width="780" height="750" id="fondo" />
+    <rect x="20" y="50" width="800" height="800" id="fondo" />
 
     <circle cx="112" cy="76" r="1" stroke="white" stroke-width="10" />
     <circle cx="100" cy="135" r="1" stroke="white" stroke-width="10" />
@@ -117,7 +117,7 @@
     <circle cx="708" cy="785" r="1" stroke="white" stroke-width="10" />
     <circle cx="745" cy="690" r="1" stroke="white" stroke-width="10" />
     
-    <line x1="220" y1="50" x2="220" y2="800" stroke="white" stroke-width="5" />
-    <line x1="420" y1="50" x2="420" y2="800" stroke="white" stroke-width="5" />
-    <line x1="620" y1="50" x2="620" y2="800" stroke="white" stroke-width="5" />
+    <line x1="220" y1="50" x2="220" y2="850" stroke="white" stroke-width="5" />
+    <line x1="420" y1="50" x2="420" y2="850" stroke="white" stroke-width="5" />
+    <line x1="620" y1="50" x2="620" y2="850" stroke="white" stroke-width="5" />
 </svg>
